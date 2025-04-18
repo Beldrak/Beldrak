@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Lyra UE
 - 💞️ I’m looking to collaborate on UE projects
-- 📫 How to reach me ...
+- 📫 How to reach me Discord: Beldrak
 - ⚡ Fun fact: Prog metal drummer
 
 <!---
